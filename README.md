@@ -1,4 +1,4 @@
-# Nordic Energy Explorer 2.6
+# Nordic Energy Explorer 3.0
 
 <p align="center">
     <img src="/NordicEnergyExplorer.png" />
