@@ -1,25 +1,25 @@
 # Ark Explorer 3.0
 
 <p align="center">
-    <img src="/ARKExplorer.png" />
+    <img src="/NordicEnergyExplorer.png" />
 </p>
 
 > Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
 
-[![Build Status](https://badgen.now.sh/github/status/ArkEcosystem/Explorer/develop)](https://github.com/ArkEcosystem/explorer/actions?query=branch%3Adevelop)
-[![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/explorer)](https://codecov.io/gh/arkecosystem/explorer)
+[![Build Status](https://badgen.now.sh/github/status/nordicenergy/Explorer/develop)](https://github.com/nordicenergy/explorer/actions?query=branch%3Adevelop)
+[![Codecov](https://badgen.now.sh/codecov/c/github/nordicenergy/explorer)](https://codecov.io/gh/nordicenergy/explorer)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
-> Lead Maintainer: [Michel Kraaijeveld](https://github.com/ItsANameToo)
+> Lead Maintainer: [Nordic Energy](https://github.com/nordicenergy)
 
-You can access it at [https://explorer.ark.io/](https://explorer.ark.io/).
+You can access it at [https://explorer.nordicenergy.io/](https://explorer.nordicenergy.io/).
 
 ## Build Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ArkEcosystem/explorer
+git clone https://github.com/nordicenergy/explorer
 ```
 
 ### 2. Install Dependencies
@@ -56,7 +56,7 @@ If you are going to host your explorer instance on GitHub Pages you will need to
 yarn build --base https://username.github.io/repository/
 ```
 
-A running instance of the explorer on GitHub Pages can be found at https://arkecosystem.github.io/.
+A running instance of the explorer on GitHub Pages can be found at https://nordicenergy.github.io/.
 
 > This step is not required if you are hosting the explorer on your "root" repository which is usually your username https://username.github.io/.
 
@@ -115,13 +115,13 @@ $ yarn test
 ## Contributing
 
 - If you find any bugs, submit an [issue](../../issues) or open a [pull-request](../../pulls), helping us catch and fix them.
-- Engage with other users and developers on the [ArkEcosystem Slack](https://ark.io/slack/).
-- Join our [gitter](https://gitter.im/ark-developers/Lobby).
-- [Contribute bounties](https://github.com/ArkEcosystem/bounty-program).
+- Engage with other users and developers on the [Nordic Energy Slack](https://nordicenergy.io/slack/).
+- Join our [gitter](https://gitter.im/nordicenergy-developers/Lobby).
+- [Contribute bounties](https://github.com/nordicenergy/bounty-program).
 
 ## Security
 
-If you discover a security vulnerability within this package, please send an e-mail to security@ark.io. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this package, please send an e-mail to security@nordicenergy.io. All security vulnerabilities will be promptly addressed.
 
 ## Credits
 
@@ -129,4 +129,4 @@ This project exists thanks to all the people who [contribute](../../contributors
 
 ## License
 
-[MIT](LICENSE) © [ARK Ecosystem](https://ark.io)
+[MIT](LICENSE) © [2020 Nordic Energy](https://nordicenergy.io)
