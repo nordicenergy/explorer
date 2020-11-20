@@ -1,13 +1,13 @@
 {
-  "title": "DARK Explorer",
-  "server": "https://dexplorer.ark.io/api",
+  "title": "Nordic Energy Development Explorer",
+  "server": "https://dexplorer.nordicenergy.io/api",
   "alias": "Development",
   "activeDelegates": 51,
   "rewardOffset": 10800,
   "currencies": [],
   "defaults": {
-    "token": "DARK",
-    "symbol": "DѦ",
+    "token": "Nordic Energy Development Token",
+    "symbol": "NEDT",
     "currency": null,
     "priceChartOptions": {
       "enabled": false,
