@@ -14,50 +14,50 @@ export const I18N = {
 
 export const brand = {
   footer: {
-    url: "https://ark.io",
-    text: "ARK.io",
+    url: "https://nordicenergy.io",
+    text: "Nordic Energy",
   },
 };
 
 export const knownWalletsUrls = {
-  mainnet: "https://raw.githubusercontent.com/ArkEcosystem/common/master/mainnet/known-wallets.json",
-  devnet: "https://raw.githubusercontent.com/ArkEcosystem/common/master/devnet/known-wallets.json",
+  mainnet: "https://raw.githubusercontent.com/nordicenergy/common/master/mainnet/known-wallets.json",
+  devnet: "https://raw.githubusercontent.com/nordicenergy/common/master/devnet/known-wallets.json",
 };
 
 export const socialMedia = [
   {
     name: "facebook",
-    url: "https://facebook.ark.io",
+    url: "https://facebook.nordicenergy.io",
     viewBox: "0 0 10 16",
   },
   {
     name: "twitter",
-    url: "https://twitter.ark.io",
+    url: "https://twitter.nordicenergy.io",
     viewBox: "0 0 16 16",
   },
   {
     name: "youtube",
-    url: "https://youtube.ark.io",
+    url: "https://youtube.nordicenergy.io",
     viewBox: "0 0 18 16",
   },
   {
     name: "email",
-    url: "mailto:info@ark.io",
+    url: "mailto:info@nordicenergy.io",
     viewBox: "0 0 16 16",
   },
   {
     name: "telegram",
-    url: "https://telegram.me/ArkEcosystem",
+    url: "https://telegram.me/nordicenergy",
     viewBox: "0 0 14 16",
   },
   {
     name: "reddit",
-    url: "https://reddit.ark.io",
+    url: "https://reddit.nordicenergy.io",
     viewBox: "0 0 16 16",
   },
   {
     name: "github",
-    url: "https://github.ark.io",
+    url: "https://github.nordicenergy.io",
     viewBox: "0 0 16 16",
   },
   {
@@ -72,27 +72,27 @@ export const socialMedia = [
   },
   {
     name: "discord",
-    url: "https://discord.ark.io",
+    url: "https://discord.nordicenergy.io",
     viewBox: "0 0 14 16",
   },
   {
     name: "instagram",
-    url: "https://instagram.ark.io",
+    url: "https://instagram.nordicenergy.io",
     viewBox: "0 0 14 16",
   },
   {
     name: "medium",
-    url: "https://blog.ark.io",
+    url: "https://blog.nordicenergy.io",
     viewBox: "0 0 16 16",
   },
   {
     name: "soundcloud",
-    url: "https://soundcloud.com/thearkcryptopodcast",
+    url: "https://soundcloud.com/thenordicenergycryptopodcast",
     viewBox: "0 0 20 16",
   },
   {
     name: "minds",
-    url: "https://www.minds.com/arkecosystem",
+    url: "https://www.minds.com/nordicenergyecosystem",
     viewBox: "0 0 14 16",
   },
 ];
