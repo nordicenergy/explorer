@@ -4,5 +4,5 @@
 
 .chart-tab-active, .chart-tab:hover {
   @apply .text-white;
-  background-color: #e78068;
+  background-color: #cca300;
 }
