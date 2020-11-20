@@ -4,7 +4,7 @@
     <img src="/NordicEnergyExplorer.png" />
 </p>
 
-> Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
+> Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS). Code based of ARK blockchain explorer.
 
 [![Build Status](https://badgen.now.sh/github/status/nordicenergy/Explorer/develop)](https://github.com/nordicenergy/explorer/actions?query=branch%3Adevelop)
 [![Codecov](https://badgen.now.sh/codecov/c/github/nordicenergy/explorer)](https://codecov.io/gh/nordicenergy/explorer)
