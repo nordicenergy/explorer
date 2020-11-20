@@ -1,6 +1,6 @@
 {
-  "title": "ARK Explorer",
-  "server": "https://explorer.ark.io/api",
+  "title": "Nordic Energy Explorer",
+  "server": "https://explorer.nordicenergy.io/api",
   "alias": "Main",
   "activeDelegates": 51,
   "rewardOffset": 75600,
@@ -22,8 +22,8 @@
     "USD": "$"
   },
   "defaults": {
-    "token": "ARK",
-    "symbol": "Ѧ",
+    "token": "Nordic Energy Token",
+    "symbol": "NET",
     "currency": {
       "name": "USD",
       "symbol": "$"
