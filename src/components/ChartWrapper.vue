@@ -148,13 +148,13 @@ export default class ChartWrapper extends Vue {
       ],
     },
     tooltips: {
-      backgroundColor: "#272936",
+      backgroundColor: "#1a1a1a",
       titleFontStyle: "normal",
       titleFontSize: 18,
       titleFontFamily: "'Inter Regular', sans-serif",
       titleMarginBottom: 0,
       cornerRadius: 3,
-      bodyFontColor: "#838a9b",
+      bodyFontColor: "#8c8c8c",
       bodyFontSize: 14,
       xPadding: 14,
       yPadding: 14,
@@ -163,7 +163,7 @@ export default class ChartWrapper extends Vue {
       mode: "index",
       intersect: false,
       // borderWidth: 1,
-      // borderColor: '#037cff',
+      // borderColor: '#cca300',
       callbacks: {
         // @ts-ignore
         title: (tooltipItem) => this.readableCurrency(tooltipItem[0].yLabel, 1, null, false),
@@ -182,8 +182,8 @@ export default class ChartWrapper extends Vue {
         {
           type: "line",
           pointHoverBackgroundColor: "#fff",
-          borderColor: "#535972",
-          pointHoverBorderColor: "#037cff",
+          borderColor: "#595959",
+          pointHoverBorderColor: "#e6b800",
           pointBackgroundColor: "rgba(0,0,0,0)",
           pointBorderColor: "rgba(0,0,0,0)",
           pointHoverRadius: 7,
