@@ -1,4 +1,4 @@
-# Ark Explorer 3.0
+# Nordic Energy Explorer 3.0
 
 <p align="center">
     <img src="/NordicEnergyExplorer.png" />
