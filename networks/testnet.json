@@ -1,14 +1,14 @@
 {
-  "title": "TARK Explorer",
-  "server": "http://127.0.0.1:4003/api",
-  "alias": "Testnet local",
+  "title": "Test Explorer",
+  "server": "http://testnet.nordicenergy.io/api",
+  "alias": "Testnet",
   "activeDelegates": 51,
   "rewardOffset": 75600,
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "TARK",
-    "symbol": "TѦ",
+    "token": "Nordic Energy Test Token",
+    "symbol": "NETT",
     "currency": null,
     "priceChartOptions": {
       "enabled": false,
