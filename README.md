@@ -9,6 +9,7 @@
 [![Build Status](https://badgen.now.sh/github/status/nordicenergy/Explorer/develop)](https://github.com/nordicenergy/explorer/actions?query=branch%3Adevelop)
 [![Codecov](https://badgen.now.sh/codecov/c/github/nordicenergy/explorer)](https://codecov.io/gh/nordicenergy/explorer)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d4d89265-096b-4c96-8358-67e8e96a9300/deploy-status)](https://app.netlify.com/sites/nordicenergy-explorer/deploys)
 
 > Lead Maintainer: [Nordic Energy](https://github.com/nordicenergy)
 
